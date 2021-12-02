@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FlagCountry/static/css/main.426bddc2.chunk.css",
+    "main.js": "/FlagCountry/static/js/main.de0c5af2.chunk.js",
+    "main.js.map": "/FlagCountry/static/js/main.de0c5af2.chunk.js.map",
+    "runtime-main.js": "/FlagCountry/static/js/runtime-main.cf4bde94.js",
+    "runtime-main.js.map": "/FlagCountry/static/js/runtime-main.cf4bde94.js.map",
+    "static/js/2.9fdc5c17.chunk.js": "/FlagCountry/static/js/2.9fdc5c17.chunk.js",
+    "static/js/2.9fdc5c17.chunk.js.map": "/FlagCountry/static/js/2.9fdc5c17.chunk.js.map",
+    "index.html": "/FlagCountry/index.html",
+    "static/css/main.426bddc2.chunk.css.map": "/FlagCountry/static/css/main.426bddc2.chunk.css.map",
+    "static/js/2.9fdc5c17.chunk.js.LICENSE.txt": "/FlagCountry/static/js/2.9fdc5c17.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/FlagCountry/static/media/main.516fbcd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf4bde94.js",
+    "static/js/2.9fdc5c17.chunk.js",
+    "static/css/main.426bddc2.chunk.css",
+    "static/js/main.de0c5af2.chunk.js"
+  ]
+}
